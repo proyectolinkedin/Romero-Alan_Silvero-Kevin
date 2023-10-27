@@ -36,5 +36,11 @@ public class Odontologo {
     public void setApellido(String apellido) {
         this.apellido = apellido;
     }
+
+    public void setId(int id) {
+    }
+
+    public int getId() {
+    }
 }
 
